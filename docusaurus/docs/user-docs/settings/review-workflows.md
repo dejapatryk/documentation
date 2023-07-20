@@ -44,7 +44,7 @@ Before being available in the [Content Manager](/user-docs/content-manager/revie
     | -------------- | ------------------------------------------------------------------------ |
     | Name           | Write a unique name of workflow.                                         |
     | Content-Types  | (optional) Assign this workflow to one or more existing content-types.   |
-    | Stages         | Add review stages.                                                       |
+    | Stages         | Add review stages (see [Adding a new stage](#adding-a-new-stage). |
 
 3. Click on the **Save** button. The new workflow will be displayed in the list-view and for every content-type assigned.
 
