@@ -15,7 +15,9 @@ The Review Workflows feature allows you to create and manage different workflows
   }}
 />
 
-In many organizations different teams review different parts of content. By using different review workflows for different content-types, it is possible to adjust each workflows to the needs of each team involved. The default workflow is configured to have 4 stages: To do, In progress, Ready to review, and Reviewed. All 4 stages can be edited, reordered or deleted as needed, and it is also possible to add new stages.
+In many organizations different teams review different parts of content. By using different review workflows for different content-types, it is possible to adjust each workflow to the needs of each team involved.
+
+The default workflow is configured to have 4 stages: To do, In progress, Ready to review, and Reviewed. All 4 stages can be edited, reordered or deleted as needed, and it is also possible to add new stages.
 
 Before being available in the [Content Manager](/user-docs/content-manager/reviewing-content), review workflows must be configured from ![Settings icon](/img/assets/icons/settings.svg) *Settings > Global settings > Review Workflows*.
 
